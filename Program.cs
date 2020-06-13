@@ -16,7 +16,10 @@ namespace ConsoleAppLearning
 
             person.Name = "Anna";
             person.Introduce();
+
+            person.AddNumbers(12, 52);
         }
+
     }
 
    

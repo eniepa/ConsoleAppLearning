@@ -21,6 +21,9 @@ namespace ConsoleAppLearning
                                  + ". " + "I am " + this.Age + " years old.");
         }
 
-
+        public void AddNumbers(int a, int b)
+        {
+            Console.WriteLine(a + b);
+        }
     }
 }
